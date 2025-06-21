@@ -3,7 +3,7 @@
 
 FitTrack is a mobile-friendly, interactive **fitness tracking web application** built with **React**, **Tailwind CSS**, and **Chart.js**. It helps users visualize their workouts, track progress, analyze trends, and export summaries — all in a clean, responsive UI.
 
-Live Demo: [🔗 View on Netlify](https://your-netlify-link.netlify.app)  
+Live Demo: [🔗 View on Netlify](https://fitness-tracker-vinay.netlify.app/)  
 GitHub: [🔗 View Repository](https://github.com/privacygitt/fitness-tracker)
 
 ---
